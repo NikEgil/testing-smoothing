@@ -1,0 +1,20 @@
+C:\Users\user\YandexDisk\3. dev\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\user\YandexDisk\3. dev\test\test\test\obj\Debug\test.Form1.resources
+C:\Users\user\YandexDisk\3. dev\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\user\YandexDisk\3. dev\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk\3. dev\test\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\bin\Debug\ClassLibrary1.dll
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.form_gen.resources
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.form_main.resources
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\test.form_filters.resources
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\bin\Debug\Peak finder.exe.config
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\bin\Debug\Peak finder.exe
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\bin\Debug\Peak finder.pdb
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\Peak finder.exe
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\test\obj\Debug\Peak finder.pdb

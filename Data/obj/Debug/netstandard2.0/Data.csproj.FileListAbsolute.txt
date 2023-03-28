@@ -1,0 +1,4 @@
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-nicetas9\3. dev\test\test\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
